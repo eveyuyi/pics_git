@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T10:50:54.851Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DxSV1nrsCRvQFIQzAjRg" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T10:52:01.605Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="U-bTROaA_uB6-3FYn9Rp" version="20.5.1" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="3376" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2761" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,10 @@
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMTEwnq6Q48EXE_4IK2A-36" target="RMTEwnq6Q48EXE_4IK2A-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RMTEwnq6Q48EXE_4IK2A-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMTEwnq6Q48EXE_4IK2A-36" target="RMTEwnq6Q48EXE_4IK2A-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RMTEwnq6Q48EXE_4IK2A-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="RMTEwnq6Q48EXE_4IK2A-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127" y="440" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="530" width="887" height="370" as="geometry" />
@@ -120,25 +122,25 @@
           <mxGeometry x="-763" y="1220" width="620" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-74" value="\(r^{s_0}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="660" width="153" height="110" as="geometry" />
+          <mxGeometry x="50" y="280" width="153" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="RMTEwnq6Q48EXE_4IK2A-76" value="&lt;span style=&quot;&quot;&gt;数据源 在&lt;/span&gt;状态&lt;span style=&quot;&quot;&gt;{s_0}&lt;/span&gt;&amp;nbsp;= information disclosure 的度量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-773" y="540" width="300" height="30" as="geometry" />
+        <mxCell id="RMTEwnq6Q48EXE_4IK2A-76" value="&lt;span style=&quot;&quot;&gt;数据源 在&lt;/span&gt;状态\(&lt;span style=&quot;&quot;&gt;{s_0}\)&lt;/span&gt;&amp;nbsp;= information disclosure 的度量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-778" y="540" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-77" value="$$max(\sum_t(\gamma r))$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="920" width="180" height="30" as="geometry" />
+          <mxGeometry x="340" y="50" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="740" width="20" height="390" as="geometry" />
+          <mxGeometry x="340" y="-130" width="20" height="390" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-79" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;时间折现的总收益最大化&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="870" width="170" height="40" as="geometry" />
+          <mxGeometry x="380" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-80" value="TODO: 参与者在此链条里的原因" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-723" y="290" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-81" value="s.t. \(\Delta|P|&amp;lt;\sigma\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="960" width="150" height="30" as="geometry" />
+          <mxGeometry x="355" y="90" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
