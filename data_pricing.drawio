@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:04:35.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="9R-7rhrYpO486U-zr5w7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:07:21.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="dU2xz8z68in8FmUcpRMP" version="20.5.1" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="5580" dy="2843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2728" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="RMTEwnq6Q48EXE_4IK2A-69" target="RMTEwnq6Q48EXE_4IK2A-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RMTEwnq6Q48EXE_4IK2A-69" value="\(V^{S_t}(S), Q^{S_t}(S, P)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="RMTEwnq6Q48EXE_4IK2A-69" value="\(V^{S_t}, Q^{S_t}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-161" y="912" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RMTEwnq6Q48EXE_4IK2A-70" value="\(Q^{s_t}&lt;br style=&quot;font-size: 14px;&quot;&gt;\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
@@ -475,7 +475,7 @@
         <mxCell id="858yGKSQ8MIp0IXCv4UQ-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="858yGKSQ8MIp0IXCv4UQ-94" source="858yGKSQ8MIp0IXCv4UQ-176" target="858yGKSQ8MIp0IXCv4UQ-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="858yGKSQ8MIp0IXCv4UQ-180" value="\(V^{S_t}(S), Q^{S_t}(S, P)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="858yGKSQ8MIp0IXCv4UQ-94">
+        <mxCell id="858yGKSQ8MIp0IXCv4UQ-180" value="\(V^{S_t}, Q^{S_t}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="858yGKSQ8MIp0IXCv4UQ-94">
           <mxGeometry x="496.5" y="812.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="858yGKSQ8MIp0IXCv4UQ-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="858yGKSQ8MIp0IXCv4UQ-94" source="858yGKSQ8MIp0IXCv4UQ-178" target="858yGKSQ8MIp0IXCv4UQ-180">
@@ -718,7 +718,7 @@
         <mxCell id="858yGKSQ8MIp0IXCv4UQ-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="858yGKSQ8MIp0IXCv4UQ-95" source="858yGKSQ8MIp0IXCv4UQ-201" target="858yGKSQ8MIp0IXCv4UQ-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="858yGKSQ8MIp0IXCv4UQ-205" value="\(V^{S_t}(S), Q^{S_t}(S, P)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="858yGKSQ8MIp0IXCv4UQ-95">
+        <mxCell id="858yGKSQ8MIp0IXCv4UQ-205" value="\(V^{S_t}, Q^{S_t}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="858yGKSQ8MIp0IXCv4UQ-95">
           <mxGeometry x="496.5" y="812.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="858yGKSQ8MIp0IXCv4UQ-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="858yGKSQ8MIp0IXCv4UQ-95" source="858yGKSQ8MIp0IXCv4UQ-203" target="858yGKSQ8MIp0IXCv4UQ-205">
