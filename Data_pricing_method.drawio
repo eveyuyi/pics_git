@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T09:29:48.264Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9FK9ntKVC9TddrcqJdJQ" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T09:31:23.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NtdLTctPI6TFsTzzYKYt" version="20.5.1" type="github">
   <diagram id="kGfsnMhB6VJ4VMqcUgDM" name="Page-1">
-    <mxGraphModel dx="2214" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2214" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="trRhdnVgsLyDhOyCSFnk-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="trRhdnVgsLyDhOyCSFnk-90" source="trRhdnVgsLyDhOyCSFnk-57" target="trRhdnVgsLyDhOyCSFnk-57">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRhdnVgsLyDhOyCSFnk-99" value="单次交易场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
