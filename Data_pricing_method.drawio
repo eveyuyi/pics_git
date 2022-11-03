@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T09:17:55.326Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rGXPbVUMEbomzwPhXiDZ" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T09:19:26.641Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Ayirino2wGAQDQafoyKe" version="20.5.1" type="github">
   <diagram id="kGfsnMhB6VJ4VMqcUgDM" name="Page-1">
     <mxGraphModel dx="1292" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -109,8 +109,8 @@
         <mxCell id="trRhdnVgsLyDhOyCSFnk-69" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;参与方&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="840.5" y="295" width="249" height="125.83" as="geometry" />
         </mxCell>
-        <mxCell id="trRhdnVgsLyDhOyCSFnk-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;支付的token或货币 -&amp;gt; \(p\)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;收获的价值/information disclosure -&amp;gt; \(v\)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="335.83" width="240" height="60" as="geometry" />
+        <mxCell id="trRhdnVgsLyDhOyCSFnk-70" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;支付的token或货币 -&amp;gt; \(p\)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;收获的价值 -&amp;gt; \(v\)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="335.83" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trRhdnVgsLyDhOyCSFnk-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trRhdnVgsLyDhOyCSFnk-69" target="trRhdnVgsLyDhOyCSFnk-69">
           <mxGeometry relative="1" as="geometry" />
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="trRhdnVgsLyDhOyCSFnk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trRhdnVgsLyDhOyCSFnk-74" target="trRhdnVgsLyDhOyCSFnk-74">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRhdnVgsLyDhOyCSFnk-79" value="1. 价值增益" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trRhdnVgsLyDhOyCSFnk-80" value="2. 验证隐私保护结果&lt;br&gt;量化交易后的information disclosure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="595" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
