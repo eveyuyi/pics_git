@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T08:51:42.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="F6LyIjcQn2slBNPa5pK6" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T06:51:00.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_XXQl0BxBdQdHhP0QWOX" version="20.5.3" type="github">
   <diagram id="kGfsnMhB6VJ4VMqcUgDM" name="Page-1">
-    <mxGraphModel dx="976" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1824" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,9 @@
         <mxCell id="trRhdnVgsLyDhOyCSFnk-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="trRhdnVgsLyDhOyCSFnk-91" source="trRhdnVgsLyDhOyCSFnk-69" target="trRhdnVgsLyDhOyCSFnk-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-1" value="智能合约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="trRhdnVgsLyDhOyCSFnk-91">
+          <mxGeometry x="179" y="70.82999999999998" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="trRhdnVgsLyDhOyCSFnk-93" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="823.5" y="450" width="249" height="70" as="geometry" />
         </mxCell>
@@ -189,6 +192,9 @@
         </mxCell>
         <mxCell id="trRhdnVgsLyDhOyCSFnk-99" value="单次交易场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="578" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-2" value="区块链的一个block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
