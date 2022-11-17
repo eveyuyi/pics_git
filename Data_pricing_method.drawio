@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T06:51:00.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_XXQl0BxBdQdHhP0QWOX" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T09:11:44.702Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TW-caopTKO10mvZ58NXH" version="20.5.3" type="github">
   <diagram id="kGfsnMhB6VJ4VMqcUgDM" name="Page-1">
     <mxGraphModel dx="1824" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="trRhdnVgsLyDhOyCSFnk-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="10" y="140" width="1220" height="581" as="geometry" />
+          <mxGeometry x="10" y="140" width="1220" height="740" as="geometry" />
         </mxCell>
         <mxCell id="trRhdnVgsLyDhOyCSFnk-97" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="810" y="220" width="273" height="480" as="geometry" />
@@ -193,8 +193,17 @@
         <mxCell id="trRhdnVgsLyDhOyCSFnk-99" value="单次交易场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="578" y="100" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nqb6rjVmKKxylzuNUf7l-2" value="区块链的一个block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="120" height="30" as="geometry" />
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-2" value="blockchain&lt;br&gt;&amp;nbsp;smart contract&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="740" y="95" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-4" value="Graph(F, \(\Delta\))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-5" value="action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-7" value="Graph&#39;(F, \(\Delta\))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
