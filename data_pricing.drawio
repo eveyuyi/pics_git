@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T09:04:42.580Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uYq2OhX8YDzb4ww-DsqZ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T09:34:54.947Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J8zFuT3E-mdOzxrtweCp" version="20.5.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="2175" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -992,10 +992,10 @@
         <mxCell id="xwOjfk1AhILG_GxPL8hg-65" value="M1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-530" y="1320" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-72" value="credit/ information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-72" value="information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-385" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-75" value="Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-75" value="credit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-161" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xwOjfk1AhILG_GxPL8hg-80" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xwOjfk1AhILG_GxPL8hg-72" target="xwOjfk1AhILG_GxPL8hg-75">
@@ -1004,7 +1004,7 @@
             <mxPoint x="-151" y="1346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-82" value="transition" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xwOjfk1AhILG_GxPL8hg-80">
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-82" value="broadcast" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xwOjfk1AhILG_GxPL8hg-80">
           <mxGeometry x="-0.3161" y="-1" relative="1" as="geometry">
             <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
@@ -1013,16 +1013,19 @@
           <mxGeometry x="-380" y="1065" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xwOjfk1AhILG_GxPL8hg-83" value="D1&#39;s block" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-405" y="1320" width="215" height="120" as="geometry" />
+          <mxGeometry x="-392" y="1260" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-84" value="D1 收集到了数据D1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xwOjfk1AhILG_GxPL8hg-83">
-          <mxGeometry y="30" width="215" height="30" as="geometry" />
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-84" value="&lt;ul&gt;&lt;li&gt;D1 mining data, broadcast, value +100&lt;/li&gt;&lt;li&gt;D1 broadcast attention of selling, credit +1&lt;/li&gt;&lt;li&gt;D1 -&amp;gt; M1 info, value -2, token +1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xwOjfk1AhILG_GxPL8hg-83">
+          <mxGeometry y="30" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-85" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xwOjfk1AhILG_GxPL8hg-83">
-          <mxGeometry y="60" width="215" height="30" as="geometry" />
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-87" value="D1&#39;s block" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-392" y="1418" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-86" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xwOjfk1AhILG_GxPL8hg-83">
-          <mxGeometry y="90" width="215" height="30" as="geometry" />
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-88" value="&lt;ul&gt;&lt;li&gt;D1 mining data, broadcast, value +100&lt;/li&gt;&lt;li&gt;D1 broadcast attention of selling, credit +1&amp;nbsp;&amp;nbsp;(verified)&lt;/li&gt;&lt;li&gt;D1 -&amp;gt; M1 info, value -2, token +1 (verified)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xwOjfk1AhILG_GxPL8hg-87">
+          <mxGeometry y="30" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xwOjfk1AhILG_GxPL8hg-89" value="verify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="1355" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
