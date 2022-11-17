@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T09:12:06.803Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AB6HtVWxbNWcoihbjsR7" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T10:28:38.386Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oeybYVo_J9Ko2LCUU1PC" version="20.5.3" type="github">
   <diagram id="kGfsnMhB6VJ4VMqcUgDM" name="Page-1">
-    <mxGraphModel dx="1824" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1140" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           <mxGeometry x="578" y="100" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqb6rjVmKKxylzuNUf7l-2" value="blockchain&lt;br&gt;&amp;nbsp;smart contract&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="740" y="95" width="110" height="40" as="geometry" />
+          <mxGeometry x="713" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nqb6rjVmKKxylzuNUf7l-4" value="Graph(F, \(\Delta\))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="930" width="120" height="60" as="geometry" />
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="nqb6rjVmKKxylzuNUf7l-7" value="Graph&#39;(F, \(\Delta\))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqb6rjVmKKxylzuNUf7l-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1025" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
