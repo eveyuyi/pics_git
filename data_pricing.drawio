@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:29:24.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="2NfLAvbZq85ji61iHgF4" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:35:22.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="nx7EMzIPs5sAEiou10tN" version="20.5.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="1975" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1199,7 +1199,7 @@
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ly9WtWkErhVQQYtfc1G0-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;record&amp;nbsp;2: D1 broadcast attention of selling, token +1&lt;/li&gt;&lt;li&gt;record 3: D1 -&amp;gt; M1 info, value -2, token +50&lt;/li&gt;&lt;li&gt;record&amp;nbsp;2: D1 broadcast attention of selling, token +1&lt;/li&gt;&lt;li&gt;record 3: D1 -&amp;gt; M1 info, value -2, token +50&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ly9WtWkErhVQQYtfc1G0-1">
+        <mxCell id="ly9WtWkErhVQQYtfc1G0-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;D1 token +1: D1 broadcast attention of selling&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D1, token 50&lt;br&gt;&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D2 token 30&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ly9WtWkErhVQQYtfc1G0-1">
           <mxGeometry y="30" width="300" height="110" as="geometry" />
         </mxCell>
       </root>
