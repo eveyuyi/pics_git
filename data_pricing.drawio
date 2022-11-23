@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:24:29.642Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EfDmtzmsm9vUvEukNi6A" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:25:31.220Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jUxGX52vd6SQTmYu-WwP" version="20.5.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="1975" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3645" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X3RYDtgnWogj_C9smcL8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5640" y="1370" width="360" height="190" as="geometry" />
+          <mxGeometry x="5678" y="1370" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5640" y="1130" width="360" height="190" as="geometry" />
+          <mxGeometry x="5678" y="1130" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BjseaTSlBe1rgTazhE21-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3653" y="425.51" width="200" height="128" as="geometry" />
@@ -1038,7 +1038,7 @@
           <mxGeometry y="30" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BjseaTSlBe1rgTazhE21-171" value="&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;G(V, E)&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;V = （数据提供方， 数据购买方）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;E = （relations between players)&amp;nbsp; eg D1与M1有intention相连&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;V&#39;s features (intension, value, token, （参与者偏好&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;mrow&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;mo&gt;?&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）)&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5399.75" y="675.51" width="350" height="100" as="geometry" />
+          <mxGeometry x="5070" y="1476" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BjseaTSlBe1rgTazhE21-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BjseaTSlBe1rgTazhE21-177" target="xwOjfk1AhILG_GxPL8hg-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1113,7 +1113,7 @@
           <mxGeometry x="2965" y="352" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ly9WtWkErhVQQYtfc1G0-46" value="trigger： 两者的intention重合了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5209.75" y="740.51" width="190" height="30" as="geometry" />
+          <mxGeometry x="5186" y="1330" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z1bByTfInxcTpucw_rWF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3653" y="620.51" width="200" height="128" as="geometry" />
@@ -1247,10 +1247,10 @@
           <mxGeometry x="2604.000909090909" y="357" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZQRNJ323tYgu9yWsgt5Q-37" value="Blockchain and smart contract based action records" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="6050" y="851" width="300" height="30" as="geometry" />
+          <mxGeometry x="6098" y="843" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZQRNJ323tYgu9yWsgt5Q-48" value="数据交易链" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="6160" y="791" width="80" height="30" as="geometry" />
+          <mxGeometry x="6218" y="807" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZQRNJ323tYgu9yWsgt5Q-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5410" y="899" width="190" height="190" as="geometry" />
@@ -1360,7 +1360,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQRNJ323tYgu9yWsgt5Q-68" value="Block &amp;nbsp;in time t-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6050" y="901" width="330" height="110" as="geometry">
+          <mxGeometry x="6098" y="902" width="330" height="110" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1368,7 +1368,7 @@
           <mxGeometry y="30" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-5" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5645" y="916" width="350" height="80" as="geometry">
+          <mxGeometry x="5683" y="916" width="350" height="80" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1376,7 +1376,7 @@
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5640" y="899" width="360" height="190" as="geometry" />
+          <mxGeometry x="5678" y="899" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-11">
           <mxGeometry width="360" height="190" as="geometry" />
@@ -1388,7 +1388,7 @@
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-12" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5645" y="1147" width="350" height="80" as="geometry">
+          <mxGeometry x="5683" y="1147" width="350" height="80" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1396,7 +1396,7 @@
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-18" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5645" y="1387" width="350" height="80" as="geometry">
+          <mxGeometry x="5683" y="1387" width="350" height="80" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1404,22 +1404,22 @@
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-16" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5645" y="1234" width="350" height="80" as="geometry" />
+          <mxGeometry x="5683" y="1234" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-17" value="&lt;ul&gt;&lt;li&gt;record 2: M1 broadcast attention of buying, token +1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-16">
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-22" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5645" y="1474" width="350" height="80" as="geometry" />
+          <mxGeometry x="5683" y="1474" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-23" value="&lt;ul&gt;&lt;li&gt;record 3: intention match with D1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-22">
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5635" y="1641" width="360" height="190" as="geometry" />
+          <mxGeometry x="5673" y="1641" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-25" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5640" y="1658" width="350" height="80" as="geometry">
+          <mxGeometry x="5678" y="1658" width="350" height="80" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1427,16 +1427,16 @@
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-27" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5640" y="1745" width="350" height="80" as="geometry" />
+          <mxGeometry x="5678" y="1745" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-28" value="&lt;ul&gt;&lt;li&gt;record 4: broadcast transferring info from D1, value +50; broadcast transferring token to D1, token -50&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-27">
           <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-29" value="Records" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="5780" y="845.24" width="70" height="30" as="geometry" />
+          <mxGeometry x="5818" y="845.24" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-30" value="Block &amp;nbsp;in time t" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6050" y="1055" width="330" height="110" as="geometry">
+          <mxGeometry x="6098" y="1056" width="330" height="110" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
