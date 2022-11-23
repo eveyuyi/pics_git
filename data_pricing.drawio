@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:08:10.210Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2gk9nyL7VfDNHz9_CLyg" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:12:00.489Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="698lJw4X1IiI2716fowy" version="20.5.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="2459" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2175" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X3RYDtgnWogj_C9smcL8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5640" y="1370" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5640" y="1130" width="360" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="BjseaTSlBe1rgTazhE21-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3653" y="425.51" width="200" height="128" as="geometry" />
         </mxCell>
@@ -1412,25 +1418,70 @@
         <mxCell id="ZQRNJ323tYgu9yWsgt5Q-71" value="&lt;ul&gt;&lt;li&gt;D1 token +1: D1 broadcasts attention of selling&lt;/li&gt;&lt;li&gt;D2 token +1: D1 broadcasts attention of selling&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;D3 token +1: D1 broadcasts attention of selling&amp;nbsp;&lt;/li&gt;&lt;li&gt;M1 registers, (transfer token), token +100&amp;nbsp;&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D1 token 50&lt;br&gt;&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D2 token 30&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D2 token 20&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ZQRNJ323tYgu9yWsgt5Q-70" vertex="1">
           <mxGeometry y="30" width="330" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="X3RYDtgnWogj_C9smcL8-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5660" y="845" width="360" height="345" as="geometry" />
-        </mxCell>
-        <mxCell id="X3RYDtgnWogj_C9smcL8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-1">
-          <mxGeometry width="360" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-5" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5690" y="1260" width="350" height="70" as="geometry">
+          <mxGeometry x="5645" y="916" width="350" height="80" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X3RYDtgnWogj_C9smcL8-6" value="&lt;ul&gt;&lt;li&gt;record 1: D1 mining data, broadcast, value +100&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-5">
-          <mxGeometry y="30" width="350" height="40" as="geometry" />
+        <mxCell id="X3RYDtgnWogj_C9smcL8-6" value="&lt;ul&gt;&lt;li&gt;record 1: mining data, broadcast, value +100&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-5">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="X3RYDtgnWogj_C9smcL8-7" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5690" y="1410" width="300" height="140" as="geometry" />
+        <mxCell id="X3RYDtgnWogj_C9smcL8-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5640" y="899" width="360" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="X3RYDtgnWogj_C9smcL8-8" value="&lt;ul&gt;&lt;li&gt;record 1: register, (transfer token), token +100&lt;/li&gt;&lt;li&gt;record&amp;nbsp;2: M1 broadcast attention of buying, token +1&lt;/li&gt;&lt;li&gt;record 3: D1 -&amp;gt; M1 info, value +100, token -50&lt;/li&gt;&lt;li&gt;record 4: D1 -&amp;gt; M1 info, value +50, token -30&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-7">
-          <mxGeometry y="30" width="300" height="110" as="geometry" />
+        <mxCell id="X3RYDtgnWogj_C9smcL8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-11">
+          <mxGeometry width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-7" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-11">
+          <mxGeometry x="5" y="104" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-8" value="&lt;ul&gt;&lt;li&gt;record 1: register, (transfer token), token +100&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-7">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-12" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5645" y="1147" width="350" height="80" as="geometry">
+            <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-13" value="&lt;ul&gt;&lt;li&gt;record 1: broadcast attention of selling, token +1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-12">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-18" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5645" y="1387" width="350" height="80" as="geometry">
+            <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-19" value="&lt;ul&gt;&lt;li&gt;record 1: intention match with M1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-18">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-16" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5645" y="1234" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-17" value="&lt;ul&gt;&lt;li&gt;record 1: M1 broadcast attention of buying, token +1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-16">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-22" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5645" y="1474" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-23" value="&lt;ul&gt;&lt;li&gt;record 1: intention match with D1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-22">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5635" y="1641" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-25" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5640" y="1658" width="350" height="80" as="geometry">
+            <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-26" value="&lt;ul&gt;&lt;li&gt;record 1: intention match with M1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-25">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-27" value="M1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5640" y="1745" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-28" value="&lt;ul&gt;&lt;li&gt;record 1: intention match with D1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-27">
+          <mxGeometry y="30" width="350" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
