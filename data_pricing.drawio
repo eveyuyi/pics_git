@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:17:28.074Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Sv-Ufy2o112WYft1dPgd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:24:29.642Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EfDmtzmsm9vUvEukNi6A" version="20.5.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="2459" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1975" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1356,13 +1356,16 @@
         <mxCell id="ZQRNJ323tYgu9yWsgt5Q-67" value="Data Pricing Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="5435" y="1576" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZQRNJ323tYgu9yWsgt5Q-68" value="Block &amp;nbsp;in time t" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6050" y="901" width="330" height="220" as="geometry">
+        <mxCell id="X3RYDtgnWogj_C9smcL8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZQRNJ323tYgu9yWsgt5Q-68" target="X3RYDtgnWogj_C9smcL8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQRNJ323tYgu9yWsgt5Q-68" value="Block &amp;nbsp;in time t-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6050" y="901" width="330" height="110" as="geometry">
             <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZQRNJ323tYgu9yWsgt5Q-69" value="&lt;ul&gt;&lt;li&gt;D1 token +1: D1 broadcasts attention of selling&lt;/li&gt;&lt;li&gt;D2 token +1: D1 broadcasts attention of selling&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;D3 token +1: D1 broadcasts attention of selling&amp;nbsp;&lt;/li&gt;&lt;li&gt;M1 registers, (transfer token), token +100&amp;nbsp;&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D1 token 50&lt;br&gt;&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D2 token 30&lt;/li&gt;&lt;li&gt;M1 -&amp;gt; D2 token 20&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ZQRNJ323tYgu9yWsgt5Q-68" vertex="1">
-          <mxGeometry y="30" width="330" height="190" as="geometry" />
+        <mxCell id="ZQRNJ323tYgu9yWsgt5Q-69" value="&lt;ul&gt;&lt;li&gt;D1 token +1: D1 broadcasts attention of selling&lt;/li&gt;&lt;li&gt;M1 registers, (buys token), token +100&amp;nbsp;&lt;/li&gt;&lt;li&gt;M1 token +1: M1 broadcasts attention of buying&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ZQRNJ323tYgu9yWsgt5Q-68" vertex="1">
+          <mxGeometry y="30" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-5" value="D1&#39;s records" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5645" y="916" width="350" height="80" as="geometry">
@@ -1431,6 +1434,14 @@
         </mxCell>
         <mxCell id="X3RYDtgnWogj_C9smcL8-29" value="Records" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="5780" y="845.24" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-30" value="Block &amp;nbsp;in time t" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6050" y="1055" width="330" height="110" as="geometry">
+            <mxRectangle x="2824" y="445" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3RYDtgnWogj_C9smcL8-31" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;M1 -&amp;gt; D1 token 50&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="X3RYDtgnWogj_C9smcL8-30">
+          <mxGeometry y="30" width="330" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
