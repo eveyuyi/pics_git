@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T12:55:38.207Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iMdLh4uCK9S4X-kmS8yR" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:55:51.662Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3BuPkDkcqDkinEzD2Efl" version="20.6.0" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="2651" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3041" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1494,6 +1494,15 @@
         </mxCell>
         <mxCell id="UvEwVtJJRlTO12YYXrXY-11" value="&lt;span style=&quot;&quot;&gt;\(\pi^{*}(s_t)=argmax_a q^{\pi}(s_t,a)\)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3244.5" y="1650" width="287.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvEwVtJJRlTO12YYXrXY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UvEwVtJJRlTO12YYXrXY-12" target="BjseaTSlBe1rgTazhE21-177">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4190" y="1680" />
+              <mxPoint x="4190" y="1280" />
+              <mxPoint x="3854" y="1280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UvEwVtJJRlTO12YYXrXY-12" value="&amp;nbsp;\(a=\pi^{*}(s_t)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3612" y="1650" width="118" height="60" as="geometry" />
