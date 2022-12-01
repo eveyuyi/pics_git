@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T12:52:53.281Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HjT12iGAajHvgsTHqbOR" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:55:12.753Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8F9prdeMtNgmkBOkZ4EP" version="20.6.0" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="2651" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -800,27 +800,6 @@
         <mxCell id="xwOjfk1AhILG_GxPL8hg-22" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="3281" y="1610" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="xwOjfk1AhILG_GxPL8hg-25" target="xwOjfk1AhILG_GxPL8hg-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-25" value="\(\pi&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 0, 0); color: rgb(53, 53, 53); font-family: JetBrainsMono-Regular, SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-variant-ligatures: none; text-align: left; background-color: rgb(255, 255, 255);&quot; data-inline-type=&quot;CodeHighlight&quot; data-section-index=&quot;0&quot;&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: var(--wolai-caret-color);&quot; class=&quot;&quot;&gt;^&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 0, 0); color: var(--wolai-code-punctuation); font-family: JetBrainsMono-Regular, SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-variant-ligatures: none; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;token punctuation&quot; data-inline-type=&quot;CodeHighlight&quot; data-section-index=&quot;1&quot;&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: var(--wolai-caret-color);&quot; class=&quot;&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 0, 0); color: rgb(53, 53, 53); font-family: JetBrainsMono-Regular, SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-variant-ligatures: none; text-align: left; background-color: rgb(255, 255, 255);&quot; data-inline-type=&quot;CodeHighlight&quot; data-section-index=&quot;2&quot;&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: var(--wolai-caret-color);&quot; class=&quot;&quot;&gt;*}&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: rgb(0, 0, 0); color: var(--wolai-code-punctuation); font-family: JetBrainsMono-Regular, SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-variant-ligatures: none; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;token punctuation&quot; data-inline-type=&quot;CodeHighlight&quot; data-section-index=&quot;3&quot;&gt;&lt;span style=&quot;box-sizing: border-box; caret-color: var(--wolai-caret-color);&quot; class=&quot;&quot;&gt;(s_t)\)&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3241" y="1650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="xwOjfk1AhILG_GxPL8hg-27" target="xwOjfk1AhILG_GxPL8hg-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-27" value="\(A^{s_t}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3392.5" y="1650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="xwOjfk1AhILG_GxPL8hg-29" target="xwOjfk1AhILG_GxPL8hg-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-29" value="\(V^{S_t}, Q^{S_t}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3541" y="1650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xwOjfk1AhILG_GxPL8hg-30" value="\(Q^{s_t}&lt;br style=&quot;font-size: 14px;&quot;&gt;\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="3684" y="1650" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xwOjfk1AhILG_GxPL8hg-36" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3965" y="1030" width="75" height="160" as="geometry" />
         </mxCell>
@@ -1509,6 +1488,15 @@
         </mxCell>
         <mxCell id="UvEwVtJJRlTO12YYXrXY-8" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3431" y="1545" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UvEwVtJJRlTO12YYXrXY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UvEwVtJJRlTO12YYXrXY-11" target="UvEwVtJJRlTO12YYXrXY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UvEwVtJJRlTO12YYXrXY-11" value="&lt;span style=&quot;&quot;&gt;\(\pi^{*}(s_t)=argmax_a q^{\pi}(s_t,a)\)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3244.5" y="1650" width="287.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvEwVtJJRlTO12YYXrXY-12" value="&amp;nbsp;\(a_0=\pi_0(s_t)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3612" y="1650" width="118" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
