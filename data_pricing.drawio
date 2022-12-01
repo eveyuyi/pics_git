@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T12:55:12.753Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8F9prdeMtNgmkBOkZ4EP" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:55:38.207Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iMdLh4uCK9S4X-kmS8yR" version="20.6.0" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="2651" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1495,7 +1495,7 @@
         <mxCell id="UvEwVtJJRlTO12YYXrXY-11" value="&lt;span style=&quot;&quot;&gt;\(\pi^{*}(s_t)=argmax_a q^{\pi}(s_t,a)\)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3244.5" y="1650" width="287.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UvEwVtJJRlTO12YYXrXY-12" value="&amp;nbsp;\(a_0=\pi_0(s_t)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="UvEwVtJJRlTO12YYXrXY-12" value="&amp;nbsp;\(a=\pi^{*}(s_t)\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3612" y="1650" width="118" height="60" as="geometry" />
         </mxCell>
       </root>
