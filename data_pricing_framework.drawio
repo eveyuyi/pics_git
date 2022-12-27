@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T08:22:20.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="R6mUOXZcXCK0KqLLlS7d" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T11:00:37.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="V4L2l0v7XdRWmGAt6v6Q" version="20.7.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="-3151" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -712,8 +712,8 @@
         <mxCell id="l6hkvc7YrRsDWrXUvLI_-162" value="Token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="8511.630000000001" y="-2112" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l6hkvc7YrRsDWrXUvLI_-165" value="Trading Process&lt;br&gt;Formerlization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="8015" y="-1904.18" width="130" height="50" as="geometry" />
+        <mxCell id="l6hkvc7YrRsDWrXUvLI_-165" value="Pricing &lt;br&gt;and &lt;br&gt;Trading&lt;br&gt;with&amp;nbsp;&lt;br&gt;Interactions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="8020" y="-1875" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l6hkvc7YrRsDWrXUvLI_-189" value="&lt;div style=&quot;&quot;&gt;Usufruct&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Representation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="8020" y="-2062" width="120" height="50" as="geometry" />
@@ -745,9 +745,6 @@
         </mxCell>
         <mxCell id="l6hkvc7YrRsDWrXUvLI_-204" value="&lt;span style=&quot;&quot;&gt;Buyers&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="8379.999999999998" y="-1620.75" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6hkvc7YrRsDWrXUvLI_-207" value="Model Training" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="8020" y="-1749.62" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6hkvc7YrRsDWrXUvLI_-208" value="\(G_{t+1}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="8414.589999999998" y="-1826" width="100" height="30" as="geometry" />
