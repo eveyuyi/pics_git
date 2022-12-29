@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T01:48:58.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="MR3fUMHfyn5xIS8h_rMc" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T01:50:30.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="hwyE04--0PAf6aX1OzBD" version="20.7.3" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="-1345" dy="3763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -915,8 +915,8 @@
             <mxPoint x="23.35975609756133" y="14.907142857142844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l6hkvc7YrRsDWrXUvLI_-270" value="Data Trading Generator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="8366.63" y="-1973" width="180" height="30" as="geometry" />
+        <mxCell id="l6hkvc7YrRsDWrXUvLI_-270" value="Decentralised Data Trading Generator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="8321.63" y="-1973" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6hkvc7YrRsDWrXUvLI_-276" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Data Usufruct&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="8245" y="-1636.82" width="110" height="30" as="geometry" />
