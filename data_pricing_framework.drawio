@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T09:46:15.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vdsf9ut5B4N9JfFtc2X3" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T10:00:22.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FWSVZ3pEjWO-dPyH68Bw" version="20.7.4" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="-2495" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-2495" dy="3355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1646,7 +1646,7 @@
             <mxPoint y="17.56000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqi-UW7JyjqqxWvFrXtb-10" value="pricing signal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="Rqi-UW7JyjqqxWvFrXtb-30">
+        <mxCell id="Rqi-UW7JyjqqxWvFrXtb-10" value="pricing action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="Rqi-UW7JyjqqxWvFrXtb-30">
           <mxGeometry x="49.20000000000073" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rqi-UW7JyjqqxWvFrXtb-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;entryX=0.989;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" target="Rqi-UW7JyjqqxWvFrXtb-42">
