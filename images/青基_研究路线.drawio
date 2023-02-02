@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T08:53:30.513Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="J7sZHFQ9J_xRza_j9gf4" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T08:54:12.224Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gh3nftYmJg5yRplxtYlG" version="20.8.1" type="github">
   <diagram id="SlGQAyXAIa_Ibs_cdTL7" name="第 1 页">
-    <mxGraphModel dx="1838" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1838" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,12 +12,6 @@
         </mxCell>
         <mxCell id="ovte4Cg9hebVTWwPrr68-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案：&lt;br&gt;符合DAO的数据价值评价机制设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="220" y="520" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ovIKTIvtyWdodCo4Q1BT-1" value="研究任务2&lt;br&gt;基于信息论的交通数据价值量化模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="640" y="10" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ovIKTIvtyWdodCo4Q1BT-2" value="研究任务3&lt;br&gt;融合应用场景的交通数据价值增益评估方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="950" y="10" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovIKTIvtyWdodCo4Q1BT-7" value="关键问题1&lt;br&gt;如何在复杂的交通系统中，构建自组织的数据价值评价体系？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="160" y="730" width="280" height="80" as="geometry" />
