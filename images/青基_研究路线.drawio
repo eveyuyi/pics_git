@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T05:49:52.142Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-dZasfWXVDGZg1u5YM2E" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T05:55:51.294Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="z5qHVTy1gzsxHqz28Zcs" version="20.8.15" type="github">
   <diagram id="SlGQAyXAIa_Ibs_cdTL7" name="第 1 页">
     <mxGraphModel dx="1562" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -66,6 +66,34 @@
           <mxGeometry x="0.5" y="-240" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1009.43" y="460" as="sourcePoint" />
             <mxPoint x="1009.43" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="470" width="450" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.2：&lt;br&gt;数据激励机制&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="520" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-3" value="&lt;b&gt;研究任务3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="530" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-4" value="基于数据激励的定价模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="540" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="cVe11yx6Q2O1CDadm9Du-6" target="cVe11yx6Q2O1CDadm9Du-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;数据的供需匹配&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="520" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-7" value="关键问题3&lt;br&gt;如何自组织地匹配数据的供需？&lt;br&gt;如何实现数据激励以达到社会增益最大化？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="730" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fillColor=#ffe6cc;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry x="0.5" y="-240" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="720" as="sourcePoint" />
+            <mxPoint x="1500" y="680" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
