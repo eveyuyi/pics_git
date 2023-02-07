@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T03:09:46.398Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="T233LQlMbyOeSssbl1aB" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T03:12:53.915Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LIgfIM-zZNkF_TYxm8sL" version="20.8.15" type="github">
   <diagram id="SlGQAyXAIa_Ibs_cdTL7" name="第 1 页">
     <mxGraphModel dx="1953" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="ovIKTIvtyWdodCo4Q1BT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="ovIKTIvtyWdodCo4Q1BT-28" target="ovIKTIvtyWdodCo4Q1BT-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ovIKTIvtyWdodCo4Q1BT-28" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案2.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;交通数据价值定义&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="ovIKTIvtyWdodCo4Q1BT-28" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案2.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;基于信息论的&lt;br&gt;交通数据价值定义&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="830" y="520" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ovIKTIvtyWdodCo4Q1BT-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;fillColor=#ffe6cc;strokeColor=none;" parent="1" edge="1">
@@ -51,10 +51,10 @@
         <mxCell id="cVe11yx6Q2O1CDadm9Du-3" value="&lt;b&gt;研究任务2&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1270" y="530" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cVe11yx6Q2O1CDadm9Du-4" value="交通" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-4" value="资源与场景的匹配方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1290" y="540" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cVe11yx6Q2O1CDadm9Du-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;数据自组织供需匹配方法&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;符合DAO的交通数据&lt;br&gt;供需匹配方法&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1320" y="520" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cVe11yx6Q2O1CDadm9Du-7" value="关键问题2&lt;br&gt;自组织的交通系统中，&lt;br&gt;有哪些自组织的数据匹配方式？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="cVe11yx6Q2O1CDadm9Du-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="470" width="450" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="cVe11yx6Q2O1CDadm9Du-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.2：&lt;br&gt;价值实现模型&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.2：&lt;br&gt;数据价值实现模型&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1820" y="520" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cVe11yx6Q2O1CDadm9Du-11" value="&lt;b&gt;研究任务3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="cVe11yx6Q2O1CDadm9Du-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="cVe11yx6Q2O1CDadm9Du-14" target="cVe11yx6Q2O1CDadm9Du-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cVe11yx6Q2O1CDadm9Du-14" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;数据激励机制&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="cVe11yx6Q2O1CDadm9Du-14" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;子方案3.1：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;数据激励机制构建&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=16;fontStyle=1;flipH=0;flipV=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1610" y="520" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cVe11yx6Q2O1CDadm9Du-15" value="关键问题3&lt;br&gt;如何选择最优匹配方式，&lt;br&gt;变现数据价值，达到社会增益最大化？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
