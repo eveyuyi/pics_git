@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T08:08:40.360Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eE-kHo6SiKcMaKZEmLso" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T08:40:24.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LIZ-E2VvTZvOruCpblqa" version="20.8.20" type="github">
   <diagram id="SlGQAyXAIa_Ibs_cdTL7" name="第 1 页">
     <mxGraphModel dx="2574" dy="2463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -386,7 +386,7 @@
         <mxCell id="OhdJKjMLPSLkUOPBoB3H-8" value="&lt;b&gt;研究任务1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2240" y="-650" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhdJKjMLPSLkUOPBoB3H-9" value="评价器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-9" value="鉴别器训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2260" y="-640" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhdJKjMLPSLkUOPBoB3H-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="OhdJKjMLPSLkUOPBoB3H-11" target="OhdJKjMLPSLkUOPBoB3H-7">
@@ -445,6 +445,21 @@
         </mxCell>
         <mxCell id="OhdJKjMLPSLkUOPBoB3H-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2730" y="-1020" width="530" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-25" value="与事实相符的交通检测数据&lt;br&gt;补全的需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-26" value="交通状态的需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-27" value="交通检测数据&lt;br&gt;补全的需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-31" value="&lt;b&gt;鉴别器训练&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="-950" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-32" value="&lt;b&gt;生成器训练和优化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-950" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
