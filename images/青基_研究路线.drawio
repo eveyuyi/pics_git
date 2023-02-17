@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T10:46:34.431Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qdVtntzmtMy_qTwbTZ4O" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T07:10:52.526Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="__aakVpH0nopShhg6eil" version="20.8.20" type="github">
   <diagram id="SlGQAyXAIa_Ibs_cdTL7" name="第 1 页">
-    <mxGraphModel dx="2840" dy="2705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1953" dy="2302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -475,6 +475,15 @@
             <mxPoint x="2919" y="-1054" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-69" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3730" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-70" value="数据编程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3900" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhdJKjMLPSLkUOPBoB3H-71" value="深度学习" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4060" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
