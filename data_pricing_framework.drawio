@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T07:35:29.326Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3Fmk8K9ODwEOinJVd0tr" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T07:35:42.934Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="a7a47_ZCbOY_VyU77T0d" version="21.0.6" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="-1404" dy="2944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-919" dy="3217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2853,11 +2853,11 @@
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-110" value="pricing \(a^*=\pi^*(s_t)\)&lt;br&gt;optimal policy \(\pi^*\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3100" y="-1547.32" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ptzHzJ0s4kkbOxUKrcG-111" value="online RL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2960.5" y="-1444.82" width="70" height="30" as="geometry" />
+        <mxCell id="4ptzHzJ0s4kkbOxUKrcG-111" value="Online RL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2955.5" y="-1444.82" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ptzHzJ0s4kkbOxUKrcG-113" value="offline RL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2865" y="-1877.5" width="70" height="30" as="geometry" />
+        <mxCell id="4ptzHzJ0s4kkbOxUKrcG-113" value="Offline RL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="-1877.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-116" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3286.5" y="-1610.07" width="40" height="30" as="geometry" />
