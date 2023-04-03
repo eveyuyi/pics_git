@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T10:07:15.024Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vBsRY9669cSPnAaoD473" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T10:07:32.604Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0RMmdTuejJzVg2byFlON" version="21.1.1" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="-1404" dy="2963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -2752,10 +2752,10 @@
           <mxGeometry x="2871.75" y="-2242" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-73" value="Incentive price &lt;br&gt;\(a_t\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="3149.5" y="-2157" width="130" height="50" as="geometry" />
+          <mxGeometry x="3148.5" y="-2176" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-77" value="State \(s_{t+1}\)&lt;br style=&quot;font-size: 16px;&quot;&gt;Reward \(r_{t+1}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2690" y="-2170" width="150" height="50" as="geometry" />
+          <mxGeometry x="2689" y="-2176" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-78" value="Markov decision process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2910" y="-2330" width="160" height="30" as="geometry" />
