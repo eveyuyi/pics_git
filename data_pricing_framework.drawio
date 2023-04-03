@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T10:14:54.108Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rWP_VnHmUNxo6gsG7sS_" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T10:15:22.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5PISUMNpnqnus4RSC4fp" version="21.1.1" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="-1179" dy="3042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -2828,8 +2828,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2767" y="-1674.9599999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2770" y="-1593" />
-              <mxPoint x="2770" y="-1784" />
+              <mxPoint x="2780" y="-1593" />
+              <mxPoint x="2780" y="-1784" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2873,10 +2873,10 @@
           <mxGeometry x="2946.5" y="-1536.75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-126" value="\(\mu^*\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2891.5" y="-1680.75" width="70" height="30" as="geometry" />
+          <mxGeometry x="2887" y="-1678.63" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-127" value="Historic data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;\(\{s, a, s&#39;\}_t\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2755" y="-1690.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="2766" y="-1706" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9sWI4Ah6F5Ap3ljTkKJX-5" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2898.875" y="-2230" width="165.75" height="48" as="geometry" />
