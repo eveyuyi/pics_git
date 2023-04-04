@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T01:51:02.644Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AHMh585CI9Us2YLO_O4n" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T02:02:46.955Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8r2N95orDm5W2xf4Lof0" version="21.1.4" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="-1179" dy="3093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-919" dy="3244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2902,7 +2902,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIfvd4h4Tw_zswFxWwX0-2" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Online and offline&lt;br&gt;combination RL&amp;nbsp;&lt;/font&gt;based&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;pricing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Helvetica;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="dIfvd4h4Tw_zswFxWwX0-2" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;Hybrid Online and offline&lt;br&gt;&amp;nbsp;RL&amp;nbsp;&lt;/font&gt;based&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;pricing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Helvetica;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2880.89" y="-749.6399999999999" width="195" height="105.82" as="geometry" />
         </mxCell>
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-3" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
