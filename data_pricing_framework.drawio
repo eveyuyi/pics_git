@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T10:04:45.923Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ralqI4Zo0UgbLHe15q4x" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T10:05:45.170Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DsmWl7uBJ29VfoGosxmS" version="21.1.5" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="-919" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -2890,9 +2890,6 @@
         <mxCell id="9sQoEvFLPL0ygweHI0Zb-48" value="&lt;font face=&quot;Helvetica&quot;&gt;Data Pricing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#f8cecc;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2999.39" y="-1025" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9sQoEvFLPL0ygweHI0Zb-56" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;notations:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;data trading graph at t time \(G_t\)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;data seller \(s\)&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;data buyer \(b\)&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;graph state \(s_t\)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;data pricing strategy \(\pi\)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;data pricing result\(a\)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;data pricing reward/ social welfare \(r\)&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;state value function \(v\)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;action value function \(q\)&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="3527.89" y="-544.9099999999999" width="240" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="dIfvd4h4Tw_zswFxWwX0-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3094.39" y="-790" as="targetPoint" />
@@ -3122,7 +3119,7 @@
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-117" value="&lt;font color=&quot;#a680b8&quot;&gt;Data buyers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-104" vertex="1">
           <mxGeometry x="-4.398085869349624" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIfvd4h4Tw_zswFxWwX0-118" value="&lt;font color=&quot;#00994d&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-104" vertex="1">
+        <mxCell id="dIfvd4h4Tw_zswFxWwX0-118" value="&lt;font color=&quot;#006600&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-104" vertex="1">
           <mxGeometry x="140.96385914365933" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-137" value="\((iv_{A1},cv_{A1})\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="dIfvd4h4Tw_zswFxWwX0-104" vertex="1">
@@ -3202,7 +3199,7 @@
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-200" value="&lt;font color=&quot;#a680b8&quot;&gt;Data buyers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-187" vertex="1">
           <mxGeometry x="0.0019141306503760447" y="2.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIfvd4h4Tw_zswFxWwX0-201" value="&lt;font color=&quot;#00994d&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-187" vertex="1">
+        <mxCell id="dIfvd4h4Tw_zswFxWwX0-201" value="&lt;font color=&quot;#006600&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-187" vertex="1">
           <mxGeometry x="145.36385914365934" y="2.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-202" value="\((iv_{A1},cv_{A1})\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="dIfvd4h4Tw_zswFxWwX0-187" vertex="1">
