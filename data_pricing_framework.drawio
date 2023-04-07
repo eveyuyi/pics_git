@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T10:02:55.752Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sFkNpwXDUPV0-P-GtYCS" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T10:04:45.923Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ralqI4Zo0UgbLHe15q4x" version="21.1.5" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="-919" dy="3217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-919" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2999,8 +2999,8 @@
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-80" value="&lt;font color=&quot;#a680b8&quot;&gt;Data buyers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-66" vertex="1">
           <mxGeometry x="-3.4556250000000546" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIfvd4h4Tw_zswFxWwX0-81" value="&lt;font color=&quot;#00994d&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-66" vertex="1">
-          <mxGeometry x="103.734375" width="130" height="30" as="geometry" />
+        <mxCell id="dIfvd4h4Tw_zswFxWwX0-81" value="&lt;font color=&quot;#006600&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-66" vertex="1">
+          <mxGeometry x="98.734375" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-77" value="Intention matching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;container=0;" parent="1" vertex="1">
           <mxGeometry x="2769.35" y="-1147.0100000000002" width="150" height="30" as="geometry" />
@@ -3049,8 +3049,8 @@
         <mxCell id="dIfvd4h4Tw_zswFxWwX0-95" value="&lt;font color=&quot;#a680b8&quot;&gt;Data buyers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-82" vertex="1">
           <mxGeometry x="-3.4556250000000546" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIfvd4h4Tw_zswFxWwX0-96" value="&lt;font color=&quot;#00994d&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-82" vertex="1">
-          <mxGeometry x="103.734375" width="130" height="30" as="geometry" />
+        <mxCell id="dIfvd4h4Tw_zswFxWwX0-96" value="&lt;font color=&quot;#006600&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="dIfvd4h4Tw_zswFxWwX0-82" vertex="1">
+          <mxGeometry x="99.734375" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9sQoEvFLPL0ygweHI0Zb-51" value="&lt;font face=&quot;Helvetica&quot;&gt;Data trading&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;container=0;" parent="1" vertex="1">
           <mxGeometry x="3199.72" y="-1147.0100000000002" width="110" height="30" as="geometry" />
