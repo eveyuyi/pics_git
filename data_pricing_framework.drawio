@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T03:20:52.502Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qetDC9pzQgJNnckPbSHy" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T03:22:32.470Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MIJhZ-K85kox3TdMqNj7" version="21.1.5" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="-1231" dy="3063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-1613" dy="2841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2843,7 +2843,7 @@
           <mxGeometry x="2931.5" y="-1443.3100000000002" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-113" value="Pre-training" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2909.5" y="-1838.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="2909.5" y="-1845" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-122" value="\(a\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2951.5" y="-1469.5" width="40" height="30" as="geometry" />
@@ -2851,11 +2851,11 @@
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-123" value="\(s, r\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2946.5" y="-1536.75" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ptzHzJ0s4kkbOxUKrcG-126" value="\(\mu^*\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2887" y="-1678.63" width="70" height="30" as="geometry" />
+        <mxCell id="4ptzHzJ0s4kkbOxUKrcG-126" value="Reference policy&lt;br&gt;\(\mu^*\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2924.5" y="-1680.75" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ptzHzJ0s4kkbOxUKrcG-127" value="Historic data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;\(D=\{s, a, s&#39;\}_t\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2777" y="-1718.63" width="110" height="40" as="geometry" />
+          <mxGeometry x="2769.35" y="-1695" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9sWI4Ah6F5Ap3ljTkKJX-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2898.875" y="-2230" width="165.75" height="48" as="geometry" />
