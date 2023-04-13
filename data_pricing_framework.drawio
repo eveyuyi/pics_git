@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T06:46:20.768Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cKsJw5helDTTbd9qjZwb" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T06:47:57.338Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="k-5uz3ARCF2ZE2dRIcNv" version="21.1.5" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
-    <mxGraphModel dx="-577" dy="2963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="-296" dy="3126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3674,7 +3674,7 @@
           <mxGeometry x="45.75" y="9" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-184" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2145.73" y="-2143.76" width="157.5" height="43.5" as="geometry" />
+          <mxGeometry x="2145.73" y="-1930.0000000000002" width="157.5" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-185" value="" style="group" vertex="1" connectable="0" parent="EbslShuW4TUoijoElNf8-184">
           <mxGeometry x="7.000000000000109" y="2.75" width="156.6199999999999" height="38" as="geometry" />
@@ -3729,13 +3729,13 @@
           <mxGeometry x="2528.546875" y="-1964.93375" width="34.375" height="30.9375" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-145" value="&lt;font color=&quot;#a680b8&quot; style=&quot;font-size: 12px;&quot;&gt;Data buyers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2120.004375" y="-2090" width="90" height="30" as="geometry" />
+          <mxGeometry x="2120.004375" y="-2110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-146" value="&lt;font color=&quot;#006600&quot; style=&quot;font-size: 12px;&quot;&gt;Data suppliers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2227.194375" y="-2090" width="100" height="30" as="geometry" />
+          <mxGeometry x="2227.194375" y="-2110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-148" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2150" y="-2060" width="132.6" height="120" as="geometry" />
+          <mxGeometry x="2150" y="-2080" width="132.6" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-135" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#76608a;strokeColor=#432D57;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon9;fontColor=#ffffff;container=0;" vertex="1" parent="EbslShuW4TUoijoElNf8-148">
           <mxGeometry x="4.574639025138265" width="27.946811771919084" height="25.15265203804227" as="geometry" />
