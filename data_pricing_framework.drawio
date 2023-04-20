@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T10:22:26.509Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Dd6VwD-vERefCgtUzj-s" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T10:22:41.442Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xFjoz0rFC3M3olD-MASN" version="21.1.9" type="github">
   <diagram id="Or33N8EPDJmIvoWpYCI0" name="Page-1">
     <mxGraphModel dx="-786" dy="2826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -3538,8 +3538,8 @@
         <mxCell id="EbslShuW4TUoijoElNf8-105" value="\(S, R\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2377.4" y="-1746" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EbslShuW4TUoijoElNf8-106" value="Reference&lt;br&gt;optimal&lt;br&gt;\(\overset{\sim}{Q}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2243.15" y="-1754.84" width="123" height="55" as="geometry" />
+        <mxCell id="EbslShuW4TUoijoElNf8-106" value="Reference&lt;br&gt;optimal&lt;br&gt;\(\overset{\sim}{Q^*}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2238.15" y="-1754.84" width="133" height="55" as="geometry" />
         </mxCell>
         <mxCell id="EbslShuW4TUoijoElNf8-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-world-outline-128.png" parent="1" vertex="1">
           <mxGeometry x="2432.5" y="-1725.84" width="38" height="38" as="geometry" />
